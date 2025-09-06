@@ -19,7 +19,7 @@ Welcome to the Ouput Gallery of Compiler Design Lab
 ---
 ### -[`occurence.c`](occurence.c).
 
-<img width="905" height="103" alt="Heap_Sort" src="https://github.com/user-attachments/assets/c91510bf-d174-4bc1-ab2b-7b9a2b641757" />
+<img width="787" height="358" alt="image" src="https://github.com/user-attachments/assets/05332c41-330e-4112-90d7-c9c6c3901bc3" />
 
 ---
 ### -[`Count_keywords.c`](Count_keywords.c).
