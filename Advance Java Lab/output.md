@@ -1,6 +1,6 @@
 # Output Gallery
 
-Welcome to the Ouput Gallery of Analysis of Algorithms
+Welcome to the Ouput Gallery of Advance Java Lab
 
 ### -[`HelloWorld.java`](HelloWorld.java).
 
