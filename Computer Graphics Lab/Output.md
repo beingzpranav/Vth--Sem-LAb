@@ -15,3 +15,8 @@ Welcome to the Ouput Gallery of Computer Graphics
 ### -[`Pixel Code.c`](Pixel Code.c).
 
 <img width="244" height="159" alt="image" src="https://github.com/user-attachments/assets/c3e948e1-e171-4687-bb07-148ddec6f494" />
+
+---
+### -[`Exp3.c`](Exp3.c).
+
+<img width="370" height="124" alt="Screenshot 2025-09-07 213048" src="https://github.com/user-attachments/assets/984867a9-8fff-49df-9f2f-67b4b13ce932" />
