@@ -35,3 +35,10 @@ public class MySQL {
 
     }
 }
+
+
+/* Compile using the command
+   javac -cp ".;mysql-connector-j-9.0.0.jar" MySQL.java
+   Run using the command
+   java -cp ".;mysql-connector-j-9.0.0.jar" MySQL
+*/
