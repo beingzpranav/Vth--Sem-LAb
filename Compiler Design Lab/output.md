@@ -19,7 +19,7 @@ Welcome to the Ouput Gallery of Compiler Design Lab
 ---
 ### -[`occurence.c`](occurence.c).
 
-<img width="787" height="358" alt="image" src="https://github.com/user-attachments/assets/05332c41-330e-4112-90d7-c9c6c3901bc3" />
+<img width="776" height="200" alt="image" src="https://github.com/user-attachments/assets/b87f9a15-ecb9-4520-ad71-0ab02f83d06a" />
 
 ---
 ### -[`Count_keywords.c`](Count_keywords.c).
