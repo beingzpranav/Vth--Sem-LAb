@@ -25,3 +25,9 @@ Welcome to the Ouput Gallery of Compiler Design Lab
 ### -[`Count_keywords.c`](Count_keywords.c).
 
 <img width="826" height="132" alt="image" src="https://github.com/user-attachments/assets/ca79558d-f949-4cd6-bdfc-010e98083bcf" />
+
+---
+### -[`lex_program.l`](lex_program.l).
+
+<img width="571" height="93" alt="oUTPUT" src="https://github.com/user-attachments/assets/f60d1170-105b-47e2-9352-4f0fc62e665b" />
+
