@@ -27,13 +27,15 @@ Welcome to the Ouput Gallery of Compiler Design Lab
 <img width="826" height="132" alt="image" src="https://github.com/user-attachments/assets/ca79558d-f949-4cd6-bdfc-010e98083bcf" />
 
 ---
-### -[`lex_program.l`](lex_program.l).
+### -[`valid_mobile_number.l`](valid_mobile_number.l).
 
 <img width="571" height="93" alt="oUTPUT" src="https://github.com/user-attachments/assets/f60d1170-105b-47e2-9352-4f0fc62e665b" />
 
 ---
-### -[`Exp602.l`](Exp602.l).
+### -[`Valid_email.l`](Valid_email.l).
 
 <img width="471" height="389" alt="Screenshot from 2025-09-16 13-36-11" src="https://github.com/user-attachments/assets/c80fae2f-116a-4bb6-8a0f-061c0703a5db" />
 
+---
+### -[`Valid_URL`](Valid_URL.l).
 
