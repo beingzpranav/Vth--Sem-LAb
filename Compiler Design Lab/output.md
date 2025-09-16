@@ -37,5 +37,5 @@ Welcome to the Ouput Gallery of Compiler Design Lab
 <img width="471" height="389" alt="Screenshot from 2025-09-16 13-36-11" src="https://github.com/user-attachments/assets/c80fae2f-116a-4bb6-8a0f-061c0703a5db" />
 
 ---
-### -[`Valid_URL_6B`](Valid_URL_6B.l).
+### -[`Valid_URL_6B.l`](Valid_URL_6B.l).
 
